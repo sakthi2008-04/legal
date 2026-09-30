@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-streamlit
-google-genai
-python-dotenv
-python-docx
-fpdf2
-requests
-Pillow
